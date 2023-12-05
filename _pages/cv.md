@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Economics, Applied Mathematics, Social Research & Public Policy, New York University Abu Dhabi, 2023
+* M.A. in International Economics & Finance, Johns Hopkins University School of Advanced International Studies, 2024 (expected)
 
 Work experience
 ======
